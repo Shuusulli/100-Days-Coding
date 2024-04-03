@@ -431,10 +431,10 @@ FodyWeavers.xsd
 *.app
 
 #other
-*/*.json
-*/*.sln
-*/*.vcxproj
-*/*.vcxproj.filters
+.json
+.sln
+.vcxproj
+.vcxproj.filters
 
 # Prerequisites
 *.d
@@ -471,3 +471,15 @@ FodyWeavers.xsd
 
 # Folders
 *.vs
+
+# Ignora todos los archivos con la extensión .json
+*.json
+
+# Ignora todos los archivos con la extensión .sln
+*.sln
+
+# Ignora todos los archivos con la extensión .vcxproj
+*.vcxproj
+
+# Ignora todos los archivos con la extensión .vcxproj.filters
+*.vcxproj.filters
