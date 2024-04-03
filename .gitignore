@@ -431,10 +431,10 @@ FodyWeavers.xsd
 *.app
 
 #other
-*.json
-*.sln
-*.vcxproj
-*.vcxproj.filters
+/*.json
+/*.sln
+/*.vcxproj
+/*.vcxproj.filters
 
 # Prerequisites
 *.d
