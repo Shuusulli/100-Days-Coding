@@ -429,3 +429,9 @@ FodyWeavers.xsd
 *.exe
 *.out
 *.app
+
+#other
+*.json
+*.sln
+*.vcxproj
+*.vcxproj.filters
